@@ -1,0 +1,29 @@
+{
+   "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "Italy",
+        "social": {
+            "twitter_handle": "HarmonicPool",
+            "telegram_handle": "HarmonicPool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "HarmonicPool"
+        },
+        "company": {
+            "name": "Harmonic",
+            "addr": "",
+            "city": "",
+            "country": "Italy",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "enhusiast SPO, always looking for integrationg innovations",
+            "server": "Dedicated servers with 16 RAM each, stable and reliable internet connection, equipped with Uninterrupted Power Supply",
+            "company": ""
+        }
+    }
+}
